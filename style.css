@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: 'Pirata One', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: yellowgreen;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-right: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.orange-highlight{
+    color: rgb(226, 55, 112);
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+}
+.top-banner{
+    background-image: url(images/flower.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.experience-area{
+    background-image: url(images/flower.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+.single-experience{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 80%;
+}
+#Baby-Web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon, tomato);
+    border-image-slice: 1;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 30px;
+}
